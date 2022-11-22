@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # license removed for brevity
 import rospy
-from msg import Adder
+from package_test.msg import Adder
 
 # Subscribeする対象のトピックが更新されたら呼び出されるコールバック関数
 # 引数にはトピックにPublishされるメッセージの型と同じ型を定義する
