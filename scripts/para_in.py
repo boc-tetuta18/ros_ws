@@ -11,7 +11,7 @@ from matplotlib import pyplot as plt
 from numpy.random import *
 import time
 import rospy
-from msg import Adder
+from package_test.msg import Adder
 
 
 #initialize PID parameter
